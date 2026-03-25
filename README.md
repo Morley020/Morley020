@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 - **Cloud/DevOps:** Git, Docker, CI/CD
 - **Other:** API Design, Automation, Data Analysis
 
+![Morley Mujansi’s Developer Skills and Architectures](morley_profile_skills.png)
 ---
 
 ## 💡 Featured Project Types
