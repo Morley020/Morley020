@@ -1,4 +1,4 @@
-# Hi there, I'm Morley Mujansi (CEO & Founder of MorleyAI 👋
+# Hi there, I'm Morley Mujansi - CEO & Founder of MorleyAI 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, problem-solving, and continuous learning. Although most of my repositories are private, I'm eager to share the skills and the types of projects I work on, along with the impact they've had.
 
